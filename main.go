@@ -13,7 +13,7 @@ import (
 	"github.com/rhymen/go-whatsapp"
 	"github.com/skip2/go-qrcode"
 
-	"github.com/live-here/whatsapp-poc/ws"
+	"github.com/live-here/whatsappgopoc/ws"
 )
 
 var (
